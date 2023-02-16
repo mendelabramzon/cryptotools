@@ -3,7 +3,7 @@
 ## eth-to-usd converter
 Save this script in a file, for example, eth-to-usd.sh, and then make it executable using the following command:
 
-chmod +x eth-to-usd.sh
+'chmod +x eth-to-usd.sh'
 To convert a specific amount of Ethereum (ETH) to USD and round the result up to the nearest 0.1, type the following command in your terminal, replacing X with the amount of ETH you want to convert:
 
 bash
