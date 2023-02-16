@@ -17,5 +17,4 @@ The script will output the equivalent value in USD rounded up to the nearest 0.1
 ```
 And the output will be something like:
 
-Copy code
 2.5 ETH = 799.0 USD
